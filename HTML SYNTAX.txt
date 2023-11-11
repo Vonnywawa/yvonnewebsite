@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+<title>
+HTML DOCUMENT
+</title>
+</head>
+<body>
+<h1>
+MY HTML DOCUMENT
+</h1>
+</body>
+</html>
+
+
+
+<a href"email to:wanguiyvonne333@gmail.com">emailme</a>
+<a href"tel:=254714184601">contact us<a/>
+<a href"/">back to home</a>
+<a href"link">name of the link</a>
+<a href"download link">download</a>
+
+<fig> </fig>   <figcaption>  </figcaption>
+<img src="path"alt="kyu picture"title="zoom to see"width=""height="">
+
+header
+main
+footer
+secction
+p
+&nbsp;
+nav
+
+links:  ordered
+	unordered
+	description
+
+
+<section id="html">
+<a href="#html">learning html</a>
+
+
